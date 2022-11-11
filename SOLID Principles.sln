@@ -13,33 +13,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInversionPrincipl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiskovSubstitutionPrinciple", "LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple.csproj", "{745431A8-68CA-48D2-AA4A-2CE66CAB2EA3}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Images", "Images", "{0792D283-4653-47DB-A68C-750438FCEA2D}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UML_Diagrams", "UML_Diagrams", "{AB3DF4BC-A45D-4DC9-8008-0DFD13F1EA18}"
-	ProjectSection(SolutionItems) = preProject
-		..\..\..\Desktop\Before-After\Dependency Inversion_After.png = ..\..\..\Desktop\Before-After\Dependency Inversion_After.png
-		..\..\..\Desktop\Before-After\Dependency Inversion_Before.png = ..\..\..\Desktop\Before-After\Dependency Inversion_Before.png
-		..\..\..\Desktop\Before-After\Interface Segregation_After.png = ..\..\..\Desktop\Before-After\Interface Segregation_After.png
-		..\..\..\Desktop\Before-After\Interface Segregation_Before.png = ..\..\..\Desktop\Before-After\Interface Segregation_Before.png
-		..\..\..\Desktop\Before-After\Liskov Substitution_After.png = ..\..\..\Desktop\Before-After\Liskov Substitution_After.png
-		..\..\..\Desktop\Before-After\Liskov Substitution_Before.png = ..\..\..\Desktop\Before-After\Liskov Substitution_Before.png
-		..\..\..\Desktop\Before-After\Open-Closed_After.png = ..\..\..\Desktop\Before-After\Open-Closed_After.png
-		..\..\..\Desktop\Before-After\Open-Closed_Before.png = ..\..\..\Desktop\Before-After\Open-Closed_Before.png
-		..\..\..\Desktop\Before-After\Single Responsibility_After.png = ..\..\..\Desktop\Before-After\Single Responsibility_After.png
-		..\..\..\Desktop\Before-After\Single Responsibility_Before.png = ..\..\..\Desktop\Before-After\Single Responsibility_Before.png
-	EndProjectSection
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TheMeaningOf_SOLID", "TheMeaningOf_SOLID", "{0882B8A6-56C6-4844-9EDB-AD17FAC84154}"
-	ProjectSection(SolutionItems) = preProject
-		..\..\..\Desktop\Before-After\Low-High level classes.png = ..\..\..\Desktop\Before-After\Low-High level classes.png
-		..\..\..\Desktop\SOLID.jpeg = ..\..\..\Desktop\SOLID.jpeg
-		..\..\..\Desktop\SOLID_D.png = ..\..\..\Desktop\SOLID_D.png
-		..\..\..\Desktop\SOLID_I.png = ..\..\..\Desktop\SOLID_I.png
-		..\..\..\Desktop\SOLID_L.png = ..\..\..\Desktop\SOLID_L.png
-		..\..\..\Desktop\SOLID_O.png = ..\..\..\Desktop\SOLID_O.png
-		..\..\..\Desktop\SOLID_S.png = ..\..\..\Desktop\SOLID_S.png
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,10 +42,6 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(NestedProjects) = preSolution
-		{AB3DF4BC-A45D-4DC9-8008-0DFD13F1EA18} = {0792D283-4653-47DB-A68C-750438FCEA2D}
-		{0882B8A6-56C6-4844-9EDB-AD17FAC84154} = {0792D283-4653-47DB-A68C-750438FCEA2D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EEC38E8F-02EF-42C6-8CA5-AF1BA68B1D2E}
